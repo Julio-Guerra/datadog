@@ -1,4 +1,4 @@
-package apm
+package debug
 
 import "fmt"
 
