@@ -1,4 +1,4 @@
-package tracer
+package datadog
 
 import (
 	"github.com/Julio-Guerra/datadog/tracer"
