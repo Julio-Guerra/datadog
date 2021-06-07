@@ -1,5 +1,5 @@
-github.com/Julio-Guerra/datadog/appsec v1.1.0 h1:5lODsgvH+9anR4744onNf7o0XHKP/AYBqcUrrvRCwaQ=
-github.com/Julio-Guerra/datadog/appsec v1.1.0/go.mod h1:aUQoqkZbZ6Y6Otk/BfYhzOF6gxi3qiupRxC/fiX+oJg=
+github.com/Julio-Guerra/datadog/appsec v1.2.0 h1:j8KDcfxQmzh020B2mlsEco1XGhQthpcBbnMvzsk8ZmA=
+github.com/Julio-Guerra/datadog/appsec v1.2.0/go.mod h1:DqZJhAunJ6Fo/xiteaZBJS9lKw1RTSm3E7QoI4jHfNU=
 github.com/Julio-Guerra/datadog/core v1.2.0 h1:8Thzac1xe50Rzj4EDJ/5/A+a3JHjuz5fHLHCvl6d/ao=
 github.com/Julio-Guerra/datadog/core v1.2.0/go.mod h1:wXpSs9Xf9dDHgSoP8ToRj0sxTbacRHc88LGKXLZ157E=
 github.com/Julio-Guerra/datadog/debug v1.1.0 h1:My4EkKwyCE+ZBF943dwuRj9krZdu6OzcOX0+bJy1rCE=
