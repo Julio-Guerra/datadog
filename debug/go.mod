@@ -1,3 +1,3 @@
-module github.com/Julio-Guerra/tracer/debug
+module github.com/Julio-Guerra/datadog/debug
 
 go 1.16
